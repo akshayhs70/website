@@ -1,0 +1,158 @@
+body {
+  background: #f2f3f7;
+}
+.nav-menubar {
+  border-bottom: 2px solid #0e1a2b;
+  width: 100%;
+}
+.navTab span {
+  font-family: Varela Round, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.shell {
+  width: 751px;
+  height: 500px;
+  background: url("/Images/641f61936bd09b60135e1c88_Schelp\ png.png");
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.botanix-intro {
+  background-color: #0e1a2b;
+  color: #ffffff;
+  width: 50%;
+  padding: 50px 70px;
+}
+.botanix-intro span {
+  color: #f2a900;
+  margin-bottom: 100px !important;
+}
+.botanix-intro p {
+  padding-top: 30px;
+}
+.botanix-intro h1 {
+  line-height: 55px;
+}
+.section-4 h1 {
+  font-weight: 700;
+}
+.firstname {
+  width: 420px;
+  text-align: center;
+}
+.captcha {
+  background-color: #f9f9f9;
+  -webkit-box-shadow: -14px 19px 60px -82px rgba(255, 255, 255, 1);
+  -moz-box-shadow: -14px 19px 60px -82px rgba(255, 255, 255, 1);
+  box-shadow: -14px 19px 60px -82px rgba(255, 255, 255, 1);
+}
+.getNotified {
+  display: flex;
+  justify-content: center;
+  padding-right: 280px;
+  padding-top: 10px;
+}
+.future {
+  color: #f2a900;
+  padding-left: 10px;
+}
+
+.section-4 {
+  padding: 60px;
+}
+
+.botanix-paragraph {
+  width: 50% !important;
+  text-align: center !important;
+}
+.botanix-paragraph2 {
+  justify-content: center;
+}
+.cards-div {
+  gap: 30px;
+  padding: 20px;
+  position: relative;
+}
+.card {
+  width: 25%;
+  height: 320px;
+  border: none;
+  padding: 0 20px;
+  border-radius: 20px;
+  -webkit-box-shadow: -14px 19px 60px -82px rgba(255, 255, 255, 1);
+  -moz-box-shadow: -14px 19px 60px -82px rgba(255, 255, 255, 1);
+  box-shadow: -14px 19px 60px -82px rgba(255, 255, 255, 1);
+}
+.img-container {
+  background: #6157f8;
+  padding: 10px;
+  width: fit-content;
+  border-radius: 15px;
+}
+.cards-img {
+}
+.section-5-content {
+  position: relative;
+  left: 140px;
+}
+.section-5-heading {
+  width: 50%;
+  font-weight: 700;
+  text-align: left;
+}
+.section-5-img {
+  position: relative;
+  right: 130px;
+}
+.section-5-para {
+  width: 60%;
+  text-align: left;
+}
+.section-6 {
+  background: #1f2c3d;
+  width: 70%;
+  /* height: 500px; */
+  border-radius: 20px;
+  padding: 40px;
+}
+.beta-input {
+  width: 400px;
+}
+.form {
+  width: 400px;
+  padding: 20px;
+  /* height: 400px; */
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+.in-touch {
+  color: #ffffff;
+
+  padding: 0 30px;
+}
+.in-touch h2 {
+  width: 70%;
+  font-weight: 700;
+}
+.in-touch p {
+  padding-top: 20px;
+  width: 60%;
+}
+.input-form {
+  width: 300px;
+  height: 60px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid grey;
+}
+.input-form-textarea {
+  width: 300px;
+  height: 80px;
+}
+.section-6 button {
+  background-color: #1f2c3d;
+  color: #ffffff;
+  padding: 10px;
+}
